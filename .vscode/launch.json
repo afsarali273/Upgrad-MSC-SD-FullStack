@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Program",
+            "request": "launch",
+            "mainClass": "Program",
+            "projectName": "upgrad-learning_cd6da7df"
+        }
+    ]
+}
